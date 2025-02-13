@@ -106,7 +106,7 @@
                     </div>
                 </div>
                 <div class="user">
-                    <img src="img/KDS CODER.png" alt="">
+                    <img src="img/1.jpg" alt="1_jpg">
                 </div>
             </nav>
             <div class="content">
