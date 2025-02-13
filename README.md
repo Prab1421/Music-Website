@@ -2,7 +2,7 @@
 It is a music-website
 
 # Website-image
-![Music-Website](music-website.png)
+![Music-Website](Music-Website.png)
 
 ## Live Demo
 You can check out the live demo of the project at
