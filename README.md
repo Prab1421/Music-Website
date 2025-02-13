@@ -6,7 +6,7 @@ It is a music-website
 
 ## Live Demo
 You can check out the live demo of the project at
-[Deployed_Link](https://lucky-brioche-8c3c8e.netlify.app/)
+[Deployed_Link](https://quiet-duckanoo-e61722.netlify.app/)
 
 # Status Badge
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3c1bd05b-06fe-4055-9154-92415e6111e4/deploy-status)](https://app.netlify.com/sites/lucky-brioche-8c3c8e/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b475e8a3-7665-4d87-b3ca-3c63dfeb164f/deploy-status)](https://app.netlify.com/sites/quiet-duckanoo-e61722/deploys)
